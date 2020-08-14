@@ -2,8 +2,10 @@ import {Component, OnDestroy, OnInit} from '@angular/core';
 import {ActivatedRoute, NavigationEnd, Router} from '@angular/router';
 import {HttpClient} from '@angular/common/http';
 import {Fileitem} from '../fileitem';
-import xml2js from 'xml2js';
+// import xml2js from 'xml2js';
+import * as xml2js from 'xml2js';
 import {Exercise} from '../exercise';
+
 
 @Component({
   selector: 'app-moduleplayer',
@@ -54,7 +56,7 @@ export class ModuleplayerComponent implements OnInit, OnDestroy {
 
   xmlloader(url: string) {
     let xml = '';
-    let json = '';
+    let json: any;
     this.http.get(url, { responseType: 'text' }).subscribe(z => {
       xml = z;
       const parser = new xml2js.Parser({strict: false, trim: true});

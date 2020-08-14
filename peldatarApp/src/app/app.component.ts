@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-// import * as xml2js from 'xml2js';
-import xml2js from 'xml2js';
+import * as xml2js from 'xml2js';
+// import xml2js from 'xml2js';
 import {Observable} from 'rxjs';
 import {Module} from './module';
 
