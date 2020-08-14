@@ -2,51 +2,51 @@
 	<modules>
 		<module>
 			<id>01</id>
-			<title>Változók, operátorok, elágazás<title>
+			<title>Változók, operátorok, elágazás</title>
 		</module>
 		<module>
 			<id>02</id>
-			<title>Vezérlési szerkezetek<title>
+			<title>Vezérlési szerkezetek</title>
 		</module>
 		<module>
 			<id>03</id>
-			<title>Tömbök, algoritmusok<title>
+			<title>Tömbök, algoritmusok</title>
 		</module>
 		<module>
 			<id>04</id>
-			<title>Metódusok, mátrixok<title>
+			<title>Metódusok, mátrixok</title>
 		</module>
 		<module>
 			<id>05</id>
-			<title>Algoritmusok implementálása<title>
+			<title>Algoritmusok implementálása</title>
 		</module>
 		<module>
 			<id>06</id>
-			<title>Karakterek, karakterláncok<title>
+			<title>Karakterek, karakterláncok</title>
 		</module>
 		<module>
 			<id>07</id>
-			<title>Első ZH gyakorlás<title>
+			<title>Első ZH gyakorlás</title>
 		</module>
 		<module>
 			<id>08</id>
-			<title>Objektum-orientált programozás I.<title>
+			<title>Objektum-orientált programozás I.</title>
 		</module>
 		<module>
 			<id>09</id>
-			<title>Objektum-orientált programozás II.<title>
+			<title>Objektum-orientált programozás II.</title>
 		</module>
 		<module>
 			<id>10</id>
-			<title>Fájl és időkezelés<title>
+			<title>Fájl és időkezelés</title>
 		</module>
 		<module>
 			<id>11</id>
-			<title>Egyéb anyagok<title>
+			<title>Egyéb anyagok</title>
 		</module>
 		<module>
 			<id>12</id>
-			<title>Második ZH gyakorlás<title>
+			<title>Második ZH gyakorlás</title>
 		</module>
 	</modules>
 </xml>
