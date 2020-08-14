@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Mi a neved?</title>
+	<level>1</level>
+	<author>Kovács András</author>
+	<description>
+		Készítsen egy konzolos alkalmazást, amely indítása után bekéri a felhasználó nevét, majd név alapján köszönti őt!
+	</description>
+	<video>https://www.youtube.com/watch?v=bv20ZoBcdO8&t=120s</video>
+</exercise>

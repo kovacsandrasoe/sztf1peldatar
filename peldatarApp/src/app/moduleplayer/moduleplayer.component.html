@@ -1,1 +1,10 @@
-<p>moduleplayer works!</p>
+<div *ngFor="let item of exercises">
+  <h3>{{item.title}} - (by: {{item.author}}) - szint: {{item.level}}</h3>
+  <p>{{item.description}}</p>
+  <a class="btn btn-primary" href="{{item.solutionpath}}" download>
+    Megoldás letöltése
+  </a> &nbsp;
+  <a class="btn btn-success" href="{{item.video}}" target="_top" download>
+    Videó megnézése
+  </a> &nbsp;
+</div>
