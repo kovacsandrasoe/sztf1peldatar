@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
 	<title>Hello world!</title>
 	<level>1</level>
 	<author>Kovács András</author>
@@ -6,4 +7,4 @@
 		Készítsen egy konzolos alkalmazást, amely indítása után írja ki, hogy "Hello, world!" és várakozzon egy enter leütésére!
 	</description>
 	<video>https://www.youtube.com/watch?v=bv20ZoBcdO8&t=120s</video>
-</xml>
+</exercise>
