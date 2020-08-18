@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Hónap neve</title>
+	<level>1</level>
+	<author>Kovács András</author>
+	<description>
+		Készítsen egy konzolos alkalmazást, amely bekér 1-12 között egy számot és kiírja az ahhoz tartozó hónap nevét!
+	</description>
+	<video>https://www.youtube.com/watch?v=bv20ZoBcdO8&t=120s</video>
+</exercise>
