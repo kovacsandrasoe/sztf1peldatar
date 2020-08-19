@@ -1,10 +1,16 @@
 <div style="margin-bottom: 20px" *ngFor="let item of exercises">
   <h3>{{item.title}} - (by: {{item.author}}) - szint: {{item.level}}</h3>
   <p>{{item.description}}</p>
-  <a class="btn btn-primary" href="{{item.solutionpath}}" target="_blank" download>
+  <a *ngIf="item.solution == true" class="btn btn-primary" href="{{item.solutionpath}}" target="_blank" download>
     Megoldás letöltése
-  </a> &nbsp;
-  <a class="btn btn-success" href="{{item.video}}" target="_blank" download>
+  </a>
+  <a *ngIf="item.solution == false" class="btn btn-secondary" disabled>
+    Megoldás letöltése
+  </a>
+  <a *ngIf="item.video.length > 3" class="btn btn-success" href="{{item.video}}" target="_blank" download>
     Videó megnézése
-  </a> &nbsp;
+  </a>
+  <a *ngIf="item.video.length < 3" class="btn btn-secondary" disabled>
+    Videó megnézése
+  </a>
 </div>

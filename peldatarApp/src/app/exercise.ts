@@ -6,4 +6,6 @@ export class Exercise {
   public description: string;
   public filepath: string;
   public solutionpath: string;
+  public solution: boolean;
+  public num: number;
 }

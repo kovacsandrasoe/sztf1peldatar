@@ -41,9 +41,11 @@ export class ModuleplayerComponent implements OnInit, OnDestroy {
       this.http.get<Array<Fileitem>>('https://api.github.com/repos/kovacsandrasoe/sztf1peldatar/contents/modul' + this.id).subscribe(w => {
         console.log(w);
         for (const asd of w.filter(t => t.name.indexOf('.xml') > 0)) {
-          console.log(asd.name);
+          // console.log(asd.name);
           this.xmlloader(asd.download_url);
         }
+        this.exercises = this.exercises.sort(z => z.level);
+
       });
     });
   }
@@ -70,6 +72,12 @@ export class ModuleplayerComponent implements OnInit, OnDestroy {
         newex.description = json.EXERCISE.DESCRIPTION[0];
         newex.filepath = url;
         newex.solutionpath = url.replace('.xml', '.cs');
+        if (json.EXERCISE.SOLUTION[0] === 'false') {
+          newex.solution = false;
+        } else {
+          newex.solution = true;
+        }
+        newex.num = 0;
         this.exercises.push(newex);
         console.log(newex);
         // console.log(json.EXERCISE.TITLE[0]);
