@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Lottó</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Egy szerencsejátékos egy héten több lottószelvénnyel is játszik. Mindegyik szelvényt véletlenszerűen tölt ki.
+
+		Készítsünk a játékos számára egy programot, amely „kitölti” számára a szelvényeket, majd a húzást követően kiírja, hogy melyik szelvénnyel hány találatot ért el!
+		(Az alkalmazás minden lottó típus esetén működjön, a +1 találatok kezelését kivéve!)
+
+		A kitöltött szelvényeket egy kétdimenziós, a kihúzott számokat pedig egy egydimenziós tömbben tárolja el!
+		Megvalósítandó metódusok:
+		1.	static int[] GenerateDraw()
+		A kihúzott számokat előállító metódus
+		2.	static string OutDraw(int[] t)
+		A kihúzott számok megjelenítését támogató metódus
+		3.	static int[,] GenerateLotto()
+		A szelvényeket „kitöltő” metódus
+		4.	static string OutLotto(int[,] t, int[] u)
+		A kitöltött szelvények és a találatok számának megjelenítését támogató metódus
+		5.	static bool Inside(int[] t, int value)
+		A metódus eldönti, hogy egy adott szám szerepel-e egy adott szelvényen
+
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

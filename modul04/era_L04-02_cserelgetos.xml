@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Cserélgetős játék</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Egy játéktábla mezői kétféle módon vannak megjelölve (pl. * és -). Kezdetben minden mező azonos jelölésű (-), kivéve a játéktábla közepén lévő mező, valamint annak négy közvetlen szomszédja.
+		A játék során a felhasználó megadja a játéktábla egy koordinátáját. A kiválasztott koordinátájú mező, illetve annak négy szomszédja az addigival ellentétes jelölésűre változik.
+		A játék akkor ér véget, ha a felhasználó minden mezőt *-ra tudott változtatni.
+		A játéktábla aktuális állapotát egy kétdimenziós logikai tömbben tárolja el!
+		Megvalósítandó metódusok:
+		1.	static bool[,] Init()
+		A játéktábla kezdeti állapotát előállító metódus
+		2.	static string State(bool[,] game)
+		A játéktábla aktuális állapotát string formában megadó metódus
+		3.	static bool[,] Shoot(bool[,] game, int x, int y)
+		Kiválasztott pontra „lövést” megvalósító metódus
+		4.	static bool IsOver(bool[,] game)
+		A metódus vizsgálja, hogy minden mező *-gá vált-e
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
