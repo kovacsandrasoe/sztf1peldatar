@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Üdvözlés</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsünk programot, amely a konzolról beolvas egy nevet, majd név szerint üdvözli az illetőt!
+	</description>
+	<video>https://youtu.be/LQpr2Hx8DL0</video>
+	<solution>true</solution>
+</exercise>

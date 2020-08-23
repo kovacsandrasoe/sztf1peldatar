@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Üdvözlés</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsünk programot, amely a konzolról bekéri a felhasználó nevét és életkorát, majd üdvözli őt!
+	</description>
+	<video>https://youtu.be/rbph9nVrWdE</video>
+	<solution>true</solution>
+</exercise>

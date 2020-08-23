@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Téglalap</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, amely bekéri egy téglalap két szomszédos oldalának hosszát, majd kiszámolja és kiírja a képernyőre a téglalap kerületét és területét!
+	</description>
+	<video>https://youtu.be/3Y1njwa8imQ</video>
+	<solution>true</solution>
+</exercise>

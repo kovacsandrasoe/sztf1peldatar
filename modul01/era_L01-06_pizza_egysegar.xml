@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Pizza egységárának kiszámítása</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen alkalmazást, amely bekéri egy 32 centis pizza árát és egy 45 centis pizza árát! Írja ki mindkét pizza 1cm^2-ének árát! (Amelyiknek olcsóbb ez az egységára, azt éri meg jobban megvásárolni)
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

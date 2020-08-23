@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Életben eltelt idő számítása</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen alkalmazást, amelyben megadhatjuk a születési dátumunkat és a mai dátumot! Az alkalmazás számítsa ki, hogy a felhasználó életében eddig:
+• Hány nap telt el (365 nappal számoljon egy évet)
+• Hány óra telt el
+• Hány perc telt el
+• Hány másodperc telt el
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

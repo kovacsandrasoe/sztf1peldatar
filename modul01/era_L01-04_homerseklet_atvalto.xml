@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Hőmérséklet átváltó</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, amely bekér egy hőmérséklet értéket Celsius fokban, majd konvertálja azt Fahrenheit fokra. A Celsius és Fahrenheit skála közötti áttéréshez használja a következő összefüggést: [°F] = [°C] * 9/5 + 32
+	</description>
+	<video>https://youtu.be/U_EeCa9fK4Q</video>
+	<solution>true</solution>
+</exercise>
