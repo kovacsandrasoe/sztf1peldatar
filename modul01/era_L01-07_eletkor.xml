@@ -5,9 +5,9 @@
 	<author>Jakab Erika</author>
 	<description>
 		Készítsen alkalmazást, amelyben megadhatjuk a születési dátumunkat és a mai dátumot! Az alkalmazás számítsa ki, hogy a felhasználó életében eddig:\n
-• Hány nap telt el (365 nappal számoljon egy évet)\n
-• Hány óra telt el\n
-• Hány perc telt el\n
+• Hány nap telt el (365 nappal számoljon egy évet)&#xA;
+• Hány óra telt el&#xA;
+• Hány perc telt el&#xA;
 • Hány másodperc telt el
 	</description>
 	<video></video>
