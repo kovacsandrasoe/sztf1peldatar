@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Név bekérése</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Egészítsük ki a Hello, C# World alkalmazásunkat:
+A hallgató nevét addig kérjük be, amíg be nem ír valamit!
+Ne fogadjuk el névnek, hogy „Shakespeare”!
+	</description>
+	<video></video>
+	<solution>true</solution>
+</exercise>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Köszönés név szerint</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Egészítsük ki a Hello, C# World alkalmazásunkat:
+Írjunk külön-külön köszönést a következő nevekre:\par
+Béla – Szia!\par
+Bill – A király!\par
+Joe – Szevasz!\par
+
+	</description>
+	<video></video>
+	<solution>true</solution>
+</exercise>
