@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Hosszúság átváltás</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Lábban és/vagy hüvelykben adott hosszúságot számoljunk át centiméterre! (1 láb = 30,48 cm, 1 hüvelyk = 2,54 cm)
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

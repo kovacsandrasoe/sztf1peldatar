@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Faktoriális</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen programot, amely megadja egy adott egész szám faktoriálisát (ha létezik).
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

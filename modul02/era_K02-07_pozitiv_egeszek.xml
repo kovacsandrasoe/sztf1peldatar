@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Pozitív egész számok</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen programot, amely képernyőre írja az első 100 pozitív egész számot, de kihagyja közülük az öttel oszthatókat.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

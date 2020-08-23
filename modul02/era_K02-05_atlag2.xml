@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Átlag számítása</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen programot, amely beolvas a billentyűzetről számokat. Ha a beírt szám negatív, kiírja az addig beolvasott számok átlagát. Ne használjunk tömböt.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

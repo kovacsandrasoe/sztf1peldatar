@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Pontos idő</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		A pontos időből számítsuk ki, hányadik percében vagyunk a napnak. (A felhasználótól kérjük be az órát és a percet.)
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

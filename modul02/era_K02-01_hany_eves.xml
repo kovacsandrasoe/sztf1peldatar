@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Hány éves</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen programot, amely beolvas egy nevet és egy születési évet, majd kiírja, hogy az illető 2020-ban hány éves.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

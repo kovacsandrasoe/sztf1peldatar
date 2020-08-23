@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Kamatszámítás</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen programot, amely a bankban lévő kezdeti megtakarításunk és az éves kamatmérték ismeretében megadja, hogy az elkövetkező 10 évben mennyi lesz a kamattal növelt megtakarításunk.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
