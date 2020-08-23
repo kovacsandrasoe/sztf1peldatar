@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Másolás</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		A "Műveletek tömbökkel" feladat tömbjéből másolja ki egy másik, megfelelő elemszámú tömbbe a nemnegatív számokat.
+	</description>
+	<video></video>
+	<solution>true</solution>
+</exercise>

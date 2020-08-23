@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Műveletek tömbökkel</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Olvasson be maximum n db egész számot egy tömbbe, ezután döntse el a negatívok összegét, a pozitívok átlagát és a zérusok darabszámát!
+	</description>
+	<video></video>
+	<solution>true</solution>
+</exercise>

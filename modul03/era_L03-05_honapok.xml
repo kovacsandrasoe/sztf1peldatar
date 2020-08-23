@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Hónapok nevei</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Kérjen be a felhasználótól hónapnevet! Egészen addig ne fogadja el a bemenetet, amíg tényleg hónapnevet nem ír be. (Ellenőrizze: a hónapneveket tömbben tárolja, ha a felhasználó bemenete nem szerepel ebben, akkor kérje újra.)
+	</description>
+	<video></video>
+	<solution>true</solution>
+</exercise>
