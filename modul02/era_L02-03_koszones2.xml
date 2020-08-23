@@ -5,10 +5,10 @@
 	<author>Jakab Erika</author>
 	<description>
 		Egészítsük ki a Hello, C# World alkalmazásunkat:
-Írjunk külön-külön köszönést a következő nevekre:\par
-Béla – Szia!\par
-Bill – A király!\par
-Joe – Szevasz!\par
+Írjunk külön-külön köszönést a következő nevekre:
+Béla – Szia!
+Bill – A király!
+Joe – Szevasz!
 
 	</description>
 	<video></video>
