@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Szavak összefűzése</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsünk programot, amely billentyűzetről megadott szavak alapján feltölt egy 8 elemű egydimenziós tömböt, majd ezeket a szavakat visszafelé összefűzi egy mondattá.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

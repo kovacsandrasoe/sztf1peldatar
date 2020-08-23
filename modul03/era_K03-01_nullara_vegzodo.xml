@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Nullára végződő számok</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsünk programot, amely billentyűzetről megadott adatok alapján feltölt egy 10 elemű egész szám tömböt, majd a képernyőre kiírja, hogy közöttük hány 0-ra végződő szám van.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

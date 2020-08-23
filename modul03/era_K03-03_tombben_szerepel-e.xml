@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Tömb tartalmazza-e az adott elemet</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsünk programot, amely billentyűzetről megadott szavak alapján feltölt egy 8 elemű egydimenziós tömböt, majd megmondja, hogy egy szintén billentyűzetről megadott szóról, hogy szerepel-e a tömbben, és ha igen, adja vissza a sorszámát.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

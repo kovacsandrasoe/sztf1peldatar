@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Személyek adatai</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsünk programot, amely megkérdezi először a felhasználót, hogy hány adatot fog megadni. Ennek függvényében hozzunk létre egy string tömböt nevek tárolására, valamint egy int tömböt magasságok, valamint egy int tömböt életkorok tárolására! Kérjük be ciklussal minden személy mindhárom adatát! Egy személy adatai az egyes tömbök egyező indexein helyezkednek el! A tanult egyszerű programozási tételek segítségével válaszoljunk az alábbi kérdésekre:
+		a. Ki a legidősebb személy?
+		b. Hány éves a legmagasabb személy?
+		c. Hány év van a legidősebb és legfiatalabb személy között?
+		d. Igaz-e, hogy a legmagasabb személy idősebb a legalacsonyabb személynél?
+		e. Hány nagykorú személy van?
+		f. Mennyi a nagykorú személyek átlagéletkora?
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

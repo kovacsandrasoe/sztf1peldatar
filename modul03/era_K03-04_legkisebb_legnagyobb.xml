@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Tömbben lévő legkisebb és legnagyobb elem</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsünk programot, amely billentyűzetről megadott adatok alapján feltölt egy 10 elemű egész szám tömböt, majd a képernyőre kiírja, hogy hányadik volt a legkisebb és legnagyobb elem, valamint mennyi volt ezeknek az értéke.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
