@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Műveleti jelek</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsünk programot, mely beolvas a billentyűzetről két számot és egy műveleti jelet, majd kiírja a két számmal elvégzett művelet eredményét. A műveleti jelek megkülönböztetéséhez használjunk többágú (switch, case) elágaztatást.
+	</description>
+	<video></video>
+	<solution>true</solution>
+</exercise>

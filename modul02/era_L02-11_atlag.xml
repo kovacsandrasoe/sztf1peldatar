@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Átlag számítása</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Kérjünk be a felhasználótól pozitív egész számokat, nempozitív szám jelentse a bekérés végét. \n
+
+		Írjuk ki a beírt számok átlagát, de úgy, hogy az átlagból hagyjuk ki a legkisebb és a legnagyobb számot!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

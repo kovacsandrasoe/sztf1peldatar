@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Legnagyobb közös osztó, legkisebb közös többszörös</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen programot, amely két bekért pozitív egész számnak meghatározza a legnagyobb közös osztóját és a legkisebb közös többszörösét!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

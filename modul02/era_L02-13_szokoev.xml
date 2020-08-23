@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Szökőév</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsünk programot, amely megmondja, hogy a bemenetként megadott év szökőév-e vagy sem!
+		Segítség:
+		Szökőévek a 4-gyel osztható évek, kivéve a százzal oszthatóak, viszont a 400-zal is oszthatóak szökőévek.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

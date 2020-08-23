@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Összes osztó</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen programot, mely egy pozitív egész számnak kiírja az összes osztóját!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Fibonacci sorozat</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, amely a Fibonacci sorozatnak meghatározza valamely elemét!
+		A Fibonacci sorozat a következő formulák szerint definiált:
+		a0 = a1 = 1
+		an = an-1 + an-2
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

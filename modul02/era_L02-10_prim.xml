@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Prím</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, mely egy pozitív egész számról megadja, hogy prím-e vagy sem!
+Megjegyzés: Azok a pozitív egész számok prímek, melyeknek pontosan kettő darab osztója van. (Az 1 nem prím!)
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
