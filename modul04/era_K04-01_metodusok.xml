@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Metódusok</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Valósítsa meg a következő metódusokat:
+		1.	int[] GenerateArray(int db) – Előállít egy db elemű tömböt, melynek elemeit feltölti 0 és 1000 közötti véletlen egész számokkal.
+		2.	string OutArray(int[] t) – A t tömb elemeit formázottan (egy sorba, vesszővel elválasztva) elhelyezi a kimeneti string-be (segédmetódus a tömb megjelenítéséhez).
+		3.	bool IsPrime(int num) – Megadja, hogy a bemeneti num változó prím-e.
+		4.	int NumOfPrimes(int[] t) – Meghatározza, hogy a t tömbben hány darab prímszám van.
+		5.	int GetMin(int[] t) – Meghatározza a t legkisebb elemének indexét.
+		6.	int NumOdds(int[] t) – Meghatározza, hogy a t tömbben hány darab páratlan szám van.
+		7.	7. bool Exists(int[] t, int num) – Eldönti, hogy van-e a t tömbnek num értékű eleme.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

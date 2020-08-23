@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Horgászverseny</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Egy horgászverseny adatait egy kétdimenziós tömbben tároljuk: M(i,j) jelenti, hogy az i. horgász a j. halfajtából mennyit fogott.
+		1.	Az M mátrix adatait adhassa meg a felhasználó, illetve legyen lehetőség véletlenszerű feltöltésre is.
+		2.	Az M mátrixot lehessen megjeleníteni a konzolon.
+		3.	Határozza meg, hogy a horgászok összesen mennyit fogtak az egyes halfajtákból.
+		4.	Határozza meg, hogy az egyes horgászok hány halat fogtak összesen.
+		5.	Van-e olyan horgász, aki nem fogott egyetlen halat sem?
+		6.	Hány olyan horgász van, aki nem fogott egyetlen halat sem?
+		7.	Melyik horgász fogta a legtöbb halat?
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
