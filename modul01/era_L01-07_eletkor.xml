@@ -4,7 +4,7 @@
 	<level>1</level>
 	<author>Jakab Erika</author>
 	<description>
-		Készítsen alkalmazást, amelyben megadhatjuk a születési dátumunkat és a mai dátumot! Az alkalmazás számítsa ki, hogy a felhasználó életében eddig:\n
+		Készítsen alkalmazást, amelyben megadhatjuk a születési dátumunkat és a mai dátumot! Az alkalmazás számítsa ki, hogy a felhasználó életében eddig:<br/>
 		• Hány nap telt el (365 nappal számoljon egy évet)<br/>
 		• Hány óra telt el<br/>
 		• Hány perc telt el<br/>
