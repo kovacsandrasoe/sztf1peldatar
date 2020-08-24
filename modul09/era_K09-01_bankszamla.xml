@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Bankszámla kezelő</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Bankszámlák kezelésére alkossunk egy objektum orientált programot. Minden egyes bankszámla legyen a BankSzamla osztály egy példánya. A BankSzamla osztály az alábbi (privát láthatóságú) adattagokkal rendelkezzen: szamlaszam, nev (számlatulajdonos neve), egyenleg.
+		Valósítsa meg az alábbi konstruktorokat és példányszintű metódusokat. Minden metódust teszteljen a Main() metódusból.
+		a)	BankSzamla(string szamlaszam, string nev, double egyenleg)
+		Három paraméteres konstruktor, amelyen keresztül kezdeti értékek adhatók az adattagoknak.
+		b)	BankSzamla(string nev, double egyenleg)
+		Kétparaméteres konstruktor, mely kezdeti értéket ad a nev és egyenleg adattagoknak. A számlaszám véletlenszerűen álljon elő. Formátuma: NNNNNNNN-NNNNNNNN, ahol N egy tetszőleges számjegyet jelöl.
+		c)	Bankszamla(string szamlaszam, string nev)
+		Kétparaméteres konstruktor, mely kezdeti értéket ad a szamlaszam és nev adattagoknak. Az egyenleg értéke legyen alapértelmezetten 0.0.
+		d)	Bankszamla(string nev)
+		Egyparaméteres konstruktor, mely kezdeti értéket ad a nev adattagnak. A szamlaszam véletlenszerűen álljon elő, a fentebb megadott mintának megfelelően, az egyenleg pedig 0.0 legyen.
+		e)	Bankszamla()
+		Paramétermentes konstruktor. A tulajdonos neve „Anonymus”, a számlaszámot és egyenleg értéket pedig az egyparaméteres konstruktornak megfelelően állítja be.
+		f)	string Megjelenit()
+		A metódus előállít egy stringet, aminek segítségével a számla aktuális adatai megjeleníthetők.
+		g)	bool Fizet(int osszeg)
+		Az egyenleg értéke csökken a paraméter értékével, ha elég pénz van a számlán. Ilyenkor a visszatérési érték true, ha viszont nincs elég pénz, akkor nem fizetünk és a visszatérési érték false.
+		h)	void Novel(int osszeg)
+		A számlára pénz érkezik, így az egyenleg értéke növekszik a paraméter értékével.
+		i)	void Kamatozik(double szazalek)
+		A számla egyenlege a paraméternek megfelelő százalékkal növekszik (pl. 2,5%).
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
