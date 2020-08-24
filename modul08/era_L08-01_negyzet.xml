@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Feladatok négyzettel</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen osztályt egy Négyzet reprezentálására!
+		1.	A Négyzet rendelkezzen az alábbi adattagokkal:
+		•	x, y, szelesseg, magassag
+		2.	Mind a négy adattag véletlenszámként jöjjön létre a konstruktorban!
+		3.	Legyen a Négyzetnek egy Rajzol() metódusa, amely képes a konzol megfelelő pozíciójában a megadott szélességgel és magassággal kirajzolni # karakterekből a négyzetet!
+		4.	Hozzon létre a Main-ben egy 10 elemű Négyzet tömböt!
+		5.	Példányosítson a megfelelő tömbindexekre 1-1 Négyzetet és hívja meg a Rajzol() metódust minden példányon!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
