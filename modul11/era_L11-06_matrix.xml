@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Mátrix</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen Mátrix osztályt, amely tetszőleges méretű lehessen. Lehessen ellenőrizni, hogy nullmátrix-e és szorozható-e egy másik mátrixszal, illetve legyen képes transzponálásra (a mátrix transzponáltjaként egy másik Mátrix jöjjön létre, tehát az eredeti megmarad). (A szorzást nem kell megvalósítania). Lehessen lekérni egy adott elemet.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

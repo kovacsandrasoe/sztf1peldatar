@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Bölényvadászat</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Bölényvadászat:
+		Bölényvadász játékot készítünk. A bölénycsorda 10 bölényből áll, amelyek egy 5x5-ös játéktéren a 0,0 koordinátából indulnak, és az 5,5-be akarnak menni. 
+		Minden körben minden bölény véletlenszerűen lép egyet balra (x+1), felfelé (y+1) vagy átlósan balra felfelé (x+1,y+1), a pálya határain belül maradva.
+		A felhasználó minden körben adjon be egy lövést. Ha eltalált egy bölényt, az meghalt. A bölények győznek, ha bármelyik elér a célba, és a felhasználó győz, ha minden bölény meghalt.
+
+		Egy bölényt egy Bölény típusú objektummal reprezentáljon, amelyben legalább a következő tagok legyenek:
+		•	X,Y – a bölény aktuális x és y koordinátája
+		•	Lep() – hatására a bölény lépjen egyet véletlenszerűen 
+		•	Egy konstruktor, amely létrehozza a bölényt, és egyszer lépteti, hogy ne a 0,0-n kezdjen.
+		•	Tavolsag() – megadja az adott bölénynek a céltól való távolságát (légvonalban).
+		A 10 darab bölényt tömbben helyezze el. 
+		Minden körben számolja meg és írja ki, hogy a játékos lövése hány bölényt talált el (ezeket a tömbből vegye ki), aztán léptesse a megmaradt bölényeket, majd írja ki a célhoz legközelebb lévő bölénynek a céltól való távolságát.   
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

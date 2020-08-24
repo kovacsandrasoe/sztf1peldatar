@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Maratoni váltófutás</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Maratoni váltófutás:
+		Egy maratoni váltófutáson csapatok vehetnek részt. Minden csapat futókból áll. A csapatoknak együttesen kell teljesítenie a maratoni távot, azaz a csapat futói váltásban futják le a távot. Ha a csapat 1 tagból áll, a teljes távot ő kell hogy lefussa, ha 2 tagból, akkor az első felét az egyik, a másodikat a másik tag futja, ha 3 futó van, akkor harmadokra bontják a távot, és így tovább.
+		A futókról ismert a nevük, és a tempójuk. A tempó egy 3-nál nagyobb, 9-nél kisebb érték, amely definiálja, hogy egy adott lépéskörben a futó tud-e haladni. A tempó gyakorlatilag meghatározza, hogy hány lépést tud haladni a cél irányába a futó pihenés nélkül.
+		A lépések az egyszerűség kedvéért km-ben adottak, a teljes táv pedig a jól ismert 42 km, azaz 42 lépés.
+		A futó feladhatja a versenyt: erre minden lépéskörében pontosan 0.5% esély van. Ha egy futó feladta, akkor a csapata is kiesett.
+		Tehát, ha egy futó sorra kerül, akkor előbb eldől egy véletlenszámítással, hogy feladja-e a versenyt. Ha nem, akkor lép: ha a tempója pl. 5, akkor 5 lépésenként egyszer pihenni fog, azaz a lépése nem 1, hanem 0 lesz az adott körben.
+		A verseny addig tart, amíg valamely csapat célba nem ér, vagy az összes csapat fel nem adta!
+		Jelenítse meg a csapatok, futók haladását, és a célba éréshez szükséges időket!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

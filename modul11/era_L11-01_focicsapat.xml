@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Kispályás focicsapat</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Kispályás focicsapat:
+		Egy kispályás focicsapatban 1 kapus, 1 védő, 2 center és 2 támadó játékos szerepel (5+1 fő).
+		A feladat az, hogy egy olyan programot készítsen, amely segítségével az elérhető játékosokból helyes felépítésű csapatot állítson elő!
+		Minden játékosról ismert a neve és a pozíciója, amely a fent felsorolt értékek egyike lehet.
+		Egy csapatba pontosan 6 játékos kell, a fentebb definiált módon.
+		A program indításkor generáljon játékosokat, és a felhasználónak legyen lehetősége csapatba rendelni őket.
+
+		A játékosokat Jatekos objektum reprezentálja:
+		string nev: a játékos neve
+		Pozicio poz: a játékos pozíciója (kapus, védő, center, támadó)
+		A csapatot Csapat objektum reprezentálja:
+		Jatekos[] jatekosok: a csapatban levő játékosok tömbje
+		int JatekosokSzama: a csapatban levő játékosok száma
+		bool Megtelt: a játékosok száma 6?
+		bool BenneVan(Jatekos j): eldönti, hogy j szerepel-e már a csapatban
+		bool Szerepelhet(Jatekos j): eldönti, hogy j pozíciója szabad-e 
+		void Hozzaad(Jatekos j): játékos hozzáadása a csapathoz
+		A főprogramban:
+		Jatekos[] RandomJatekosok(int db): adott mennyiségű játékos generálása
+		A Main()-ben pedig a véletlenszerűen generált játékosok közül választhat a felhasználó, és a csapatba rendelheti őket.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

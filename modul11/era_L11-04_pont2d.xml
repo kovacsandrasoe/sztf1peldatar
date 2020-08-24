@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Pont2D</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen Pont2D osztályt, amely alkalmas egy 2D pont tárolására (x,y koordináták).
+		
+		Készítsen Szakasz osztályt. A szakaszt két Pont2D határozza meg. Tudni kell meghatározni a szakasz hosszát és a felezőpontját.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

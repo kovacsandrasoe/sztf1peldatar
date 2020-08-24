@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Tároló</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen egyszerű Tároló osztályt, amelyben pozitív egész számokat tárolhat. A Tárolónak legyen meghatározott kapacitása. Elemeket lehet beletenni és kivenni belőle. Lehessen ellenőrizni, hogy egy adott elem benne van-e vagy sem. A Tárolóról bármikor meg lehet tudni, hogy tele van-e, illetve ki kell tudni üríteni.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

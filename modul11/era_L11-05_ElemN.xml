@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>ElemN</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen ElemN osztályt, amelyben pontosan N darab egész számot tárolhat úgy, hogy nem szerepelhet egynél többször ugyanaz a szám. Nem lehet belőle elemet kivenni, viszont (egy valahanyadik elemet) másra kicserélni igen. Lehessen egy valahanyadik elemet lekérni, illetve ellenőrizni, hogy egy adott elem benne van-e az ElemN-esben vagy sem. 
+		Az ElemN-est mindig N különböző elemmel hozzuk létre (itt nem kell hibakezelés, feltételezhetjük, hogy az N darab kezdőelem tényleg különböző). Utána a kapacitása nem változik. Le kell tudni kérni, hogy mennyi elemből áll az ElemN-es.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
