@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Szótárprogram</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen szótárprogramot, amely szópárokat tárol, illetve ki is kérdezi a szavakat!
+		1.	Lehessen új szópárokat felvenni, de csak akkor, ha még nincsenek bent a szótárban!
+		2.	Lehessen kilistázni a szótár tartalmát!
+		3.	Tudja kikérdezni a szavakat mindkét nyelv szavai alapján. A kikérdezés végén adja meg, hány helyes válasz érkezett!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

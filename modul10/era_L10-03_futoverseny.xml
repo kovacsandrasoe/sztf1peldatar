@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Futóverseny</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen futóversenyhez célfotó programot!
+		1.	Enter leütésére indul a verseny!
+		2.	Újabb enterek ütése 1-1 versenyző célbaérését jelenti
+		3.	Jelenítse meg minden versenyző esetében:
+		4.	Helyezését
+		5.	Futamidejét
+		6.	Az első versenyző célbaéréséhez képesti időkülönbséget
+		7.	Ezeket az adatokat fűzze hozzá egy fájl végéhez!
+		8.	A program OOP elveket kövessen!
+		9.	„x” begépelése jelentse a program végét!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

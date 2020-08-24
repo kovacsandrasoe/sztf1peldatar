@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Személyek adatai</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		1.	Kérjük be személyek nevét, életkorát és foglalkozását!
+		2.	Minden személy e három jellemzőjét mentsük el külön szöveges fájlokba!
+		3.	A szöveges fájlok neve legyen a következő minta szerinti: monogram_életkor.dat
+		4.	A program adjon lehetőséget az elérhető  dat fájlok felderítésére a jelenlegi könyvtárban!
+		5.	Listázzuk a képernyőre a személyek nevét a dat fájlokból!
+		6.	Bármelyik személy legyen törölhető!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

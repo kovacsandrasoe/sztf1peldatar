@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Fájlkezelés alapjai</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		1.	Egy string tömbbe olvassa be egy szöveges fájl sorait, majd a sorokat írja ki a konzolra!
+		2.	Határozza meg, hogy hány sora van a beolvasott fájlnak, illetve hány betű található benne.
+		A fájl végére írjon két új sort, melyek ezeket az adatokat tartalmazzák!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

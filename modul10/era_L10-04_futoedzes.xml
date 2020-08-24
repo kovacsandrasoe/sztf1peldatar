@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Futóedzés</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon menüvezérelt programot, amely lehetővé teszi egy futó napi edzéseinek eltárolását
+		1.	Új edzés felvitele
+		- Dátum YYYYMMDD formátumban
+		- Táv #,# km formában
+		- Idő HH:MM:SS formátumban
+		Az új edzés bekerül a futónapló fájl végére
+		2.	Edzések listázása
+		A konzolra kilistázza az edzéseket
+		3.	Statisztikák
+		A konzolra és egy statisztika fájlba kiírja az edzések számát, valamint a távok és idők összegét és átlagát
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
