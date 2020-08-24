@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>E-mail vizsgálat</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, amely bekér a felhasználótól egy stringet, és megvizsgálja, hogy a kapott string lehet-e érvényes email cím. NE használja a C# beépített string függvényeit a feladat megoldásához!
+		Az érvényesség szabályai:
+		a)	A címben pontosan 1 db @ (kukac) jel szerepel.
+		b)	A @ előtti rész:
+		a.	legfeljebb 64 karakter hosszú lehet,
+		b.	az első és utolsó karaktere nem lehet . (pont),
+		c.	valamint nem szerepelhet benne két pont közvetlenül egymás mellett.
+		c)	A @ utáni rész:
+		a.	legfeljebb 255 karakter hosszú lehet,
+		b.	tartalmazhat betűket és számokat,
+		c.	írásjeleket azonban nem, kivéve . (pont) vagy - (kötőjel), feltéve hogy az nem az első vagy utolsó karakter,
+		d.	valamint nem szerepelhet benne két pont közvetlenül egymás mellett.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Sport</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Egy héten át rögzítettük, hogy milyen sporttevékenységeket végeztünk. (Például: „futás”, „úszás”, „futás”, „túrázás”, „korcsolyázás”, „úszás”)
+		a)	Írjon metódust, amely ABC rendbe állítja a tevékenységeket és az ismétlődőket kiszűri. (Például: „futás”, „korcsolyázás”, „túrázás”, „úszás”)
+		b)	Írjon metódust, amely megszámlálja és kiírja az egyes tevékenységek előfordulásainak számát.
+		c)	Írjon metódust, amely egy szórészletről eldönti, hogy az szerepel-e valamelyik tevékenység nevében (a kis- és nagybetűket ne különböztesse meg). Ha igen, akkor visszaadja az adott tevékenység indexét, különben pedig -1-et. NE használja a C# beépített string függvényeit a feladat megoldásához!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

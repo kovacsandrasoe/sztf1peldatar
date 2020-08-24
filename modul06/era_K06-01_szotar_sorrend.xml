@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Melyik szó van hamarabb a szótárban</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon olyan programot, amely meghatározza, hogy két szó közül melyik előzi meg a másikat egy szótárban.
+		-	az „alma” szó megelőzi az „almafa” szót
+		-	az „alma” szó megelőzi a „körte” szót
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
