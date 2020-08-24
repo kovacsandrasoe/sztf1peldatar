@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Minimumkiválasztásos rendezés</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, amely az alábbiakat valósítja meg:
+		1.	Előállít egy tíz elemű tömböt, melynek minden eleme 1 és 20 közötti véletlen egész szám.
+		2.	Megjeleníti a tömb elemeit.
+		3.	Minimumkiválasztásos rendezéssel rendezi a tömb elemeit.
+		a.	A rendezést megvalósító metódusnak paraméterként a tömböt adja át. Gondolja végig, hogy a metóduson belüli változtatások a paraméterként átadott tömbben is érvényre jutnak-e!
+		b.	Szükséges egy Csere metódust is implementálnia, amely képes két egész számot megcserélni. Ügyeljen a paraméterátadás megfelelő módjára!
+		4.	A rendezés eredményét is megjeleníti.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
