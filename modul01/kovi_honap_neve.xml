@@ -4,7 +4,7 @@
 	<level>1</level>
 	<author>Kovács András</author>
 	<description>
-		Készítsen egy konzolos alkalmazást, amely bekér 1-12 között egy számot és kiírja az ahhoz tartozó hónap nevét!
+		Készítsen egy konzolos alkalmazást, amely bekér 1-12 között egy számot!/nÍrja ki az ehhez tartozó hónap nevét!
 	</description>
 	<video></video>
 	<solution>false</solution>
