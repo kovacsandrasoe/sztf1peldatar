@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Utazók</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen objektum-orientált szemléletű programot utazók állomásainak nyilvántartására! Tárolja minden példányban, hogy mely nagyvárosokban járt eddig az adott utazó!
+		A megoldást úgy alakítsa ki, hogy a példányokban egy stringben tárolja az eddig meglátogatott városokat, ezeket pedig pontosvesszővel válassza el egymástól!
+		1.	Készítse el az osztálydefiníciót, a konstruktort!
+		2.	Készítsen void Utazik(string hova) nyilvános metódust, amely a paraméterként megadott helyet hozzáadja az eddigiekhez!
+		3.	Készítsen nyilvános bool JartE(string hol) metódust, amely megadja, hogy az utazásai során járt-e a paraméterként megadott városban!
+		4.	Készítsen nyilvános metódust int HanyHelyenJart() néven, amely megadja, hogy az utazó hány helyen járt eddig! Készítse el on-the-fly értéket kapó tulajdonságként is!
+		5.	Készítsen metódust, amely két paraméterként megadott városról megmondja, hogy melyikben járt előbb az utazó! 
+		string HolVoltElobb(string egyik, string masik)
+		6.	Készítsen metódust, amely visszaadja azokat a helyeket, ahol az utazó járt (ismétlődés nélkül!) 
+		string[] HelyekIsmetlesNelkul()
+		7.	Készítsen metódust, amely megadja azokat a helyeket, ahol az utazó többször is járt! 
+		string[] HelyekAholTobbszorJart()
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

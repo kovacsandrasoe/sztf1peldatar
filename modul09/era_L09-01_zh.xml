@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>ZH</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Hozzunk létre egy 20 elemű tömböt, amelyben Zh típusú elemek vannak. Egy ilyen elemmel egy zh-eredményt reprezentálunk. Egy Zh-hoz egy 6 jegyű Neptun-kód és egy 0-100-ig terjedő pontszám tartozik. Egy konstruktor segítségével véletlenszerű Neptun-kóddal és pontszámmal hozzuk létre a tömbben lévő példányokat. 
+		1.	Sorolja fel, kik mentek át a zh-n!
+		2.	Írja ki a legjobb eredményű hallgató Neptun-kódját! Ha több embernek is ez az eredménye, akkor mindegyikükét.
+		3.	Listázza ki az eredményeket úgy, hogy a nevek mellett a jegyek szerepelnek! A jegyeket ponthatártömb alapján állapítsa meg.
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
