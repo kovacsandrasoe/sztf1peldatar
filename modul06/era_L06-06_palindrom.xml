@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Palindrom</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, amely egy szövegről megmondja, hogy palindrom-e.
+		Palindrom az a szöveg, amely elölről olvasva ugyanaz, mint hátulról olvasva. Pl.: „Géza kék az ég.”, „Indul a görög aludni.”, „Artúr, át a Határ útra!”, „Tán őtet kitehetik tetőn át?”
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

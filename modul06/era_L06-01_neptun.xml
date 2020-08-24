@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Neptun generátor</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, amely előállít egy véletlen Neptun kódot!
+		•	A Neptun kódok 6 karakterből állnak. Minden karakter az angol ABC nagybetűje, illetve 0 és 9 közötti számjegy lehet.
+		•	Legyen a Neptun-kód kezdetben egy üres string. Mind a 6 karakterét legeneráljuk egyenként, a következőképpen:
+		•	Véletlenszám sorsolásával eldöntjük, szám jön-e vagy betű. 
+		Ha szám, akkor sorsolunk egy számot 0-9-ig, és hozzáadjuk a stringhez.
+		Ha betű, akkor sorsolunk egy karakterkódot, karakterré kasztoljuk, és azt hozzáadjuk a stringhez:
+		char c = (char)rand.Next(65, 91);	vagy
+		char c = (char)rand.Next('A', 'Z'+1);
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Teve tuvudsz ivígy beveszévélnivi?</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, amely egy szöveget átalakít „Teve tuvudsz ívígy beveszévélnivi” módon!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

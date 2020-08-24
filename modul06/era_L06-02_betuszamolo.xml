@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Betűk számolása</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, amely egy szöveges változóban megszámolja a betűket!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

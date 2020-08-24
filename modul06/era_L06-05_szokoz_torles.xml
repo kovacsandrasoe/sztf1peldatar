@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Szóközök törlése</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Írjon programot, amely egy szövegből „eltünteti” a szóközöket!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Adott karaktersorozat cseréje</title>
+	<level>1</level>
+	<author>Jakab Erika</author>
+	<description>
+		Készítsen programot, amely egy adott karaktersorozatot (pl. „Amelyik kutya ugat, az a kutya nem harap”) minden adott karaktersorozatát (pl. „kutya”) egy másik adott karaktersorozatra (pl. „macska”) cseréli!
+	</description>
+	<video></video>
+	<solution>false</solution>
+</exercise>
