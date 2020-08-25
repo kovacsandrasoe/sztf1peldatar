@@ -5,8 +5,7 @@
 	<author>Jakab Erika</author>
 	<description>
 		Készítsen alkalmazást, amely bekéri a felhasználó nevét és életkorát! Számolja ki, hogy hány napja született! Ezután üdvözölje a program őt, a következő minta alapján:
-		"Üdvözlöm, Sándor! Ön 12410 napja született!"\n 
-		(Az egyszerűség kedvéért tekintsük úgy, hogy a megadott pl. 34 éves kor azt jelenti, hogy pontosan ma van a 34. születésnapja! Az éveket 365 nappal számoljuk)
+		"Üdvözlöm, Sándor! Ön 12410 napja született!"\n(Az egyszerűség kedvéért tekintsük úgy, hogy a megadott pl. 34 éves kor azt jelenti, hogy pontosan ma van a 34. születésnapja! Az éveket 365 nappal számoljuk)
 	</description>
 	<video></video>
 	<solution>false</solution>
