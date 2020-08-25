@@ -12,25 +12,25 @@ namespace DecimalToBinary
         {
             #region Decimal to Binary Converter - Normal
             Console.Write("Kérem adja meg az átváltani kívánt számot: ");
-            int non_decimal = int.Parse(Console.ReadLine());
+            int dec = int.Parse(Console.ReadLine());
 
-            string dec = "";
-            while (non_decimal != 0)
+            string bin = "";
+            while (dec != 0)
             {
-                if (non_decimal % 2 == 0)
-                    dec += "0";
+                if (dec % 2 == 0)
+                    bin += "0";
                 else
-                    dec += "1";
+                    bin += "1";
 
-                non_decimal = non_decimal / 2;
+                dec = dec / 2;
             }
 
-            dec = Reverse(dec);
-            Console.WriteLine("A kért szám decimális alakja: " + dec);
+            bin = Reverse(bin);
+            Console.WriteLine("A kért szám bináris alakja: " + bin);
             #endregion
             #region Decimal to Binary Converter - Cheat
             //Átkonvertálja automatikusan bináris formátumba a megadott számot :))
-            //dec = Convert.ToString(non_decimal, 2);
+            //bin = Convert.ToString(dec, 2);
             #endregion
 
             Console.ReadKey();
