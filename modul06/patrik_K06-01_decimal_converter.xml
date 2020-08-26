@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Decimal to Binary Converter</title>
+	<level>3</level>
+	<author>Almási Patrik</author>
+	<description>
+		1. Készítsünk programot, amely bekér a felhasználótól egy decimális számot és átváltja binárisra.
+		2. Jelenítsük meg a konzolon az átváltott számot is.
+	</description>
+	<video>https://www.youtube.com/watch?v=rsxT4FfRBaM</video>
+	<solution>true</solution>
+</exercise>

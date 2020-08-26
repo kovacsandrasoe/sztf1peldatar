@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Mumbling</title>
+	<level>2</level>
+	<author>Almási Patrik</author>
+	<description>
+		Készítsen egy konzolos alkalmazást, amely megadott string esetén az alábbi logika szerint adja vissza azt:
+		
+		Mumbling("abcd") -> "A-Bb-Ccc-Dddd"
+		Mumbling("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
+		Mumbling("cwAt") -> "C-Ww-Aaa-Tttt"
+	</description>
+	<video></video>
+	<solution>true</solution>
+</exercise>
