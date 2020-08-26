@@ -4,9 +4,8 @@
 	<level>1</level>
 	<author>Jakab Erika</author>
 	<description>
-		Egészítsük ki a Hello, C# World alkalmazásunkat:
-Ha a hallgató neve Béla, akkor írjuk ki neki, hogy „SZIA”. Egyébként, írjuk ki, hogy „HELLO”!
+		Egészítsük ki a Hello, C# World alkalmazásunkat:\nHa a hallgató neve Béla, akkor írjuk ki neki, hogy „SZIA”. Egyébként, írjuk ki, hogy „HELLO”!
 	</description>
-	<video></video>
+	<video>https://youtu.be/7rl5vpQ5tEA</video>
 	<solution>true</solution>
 </exercise>

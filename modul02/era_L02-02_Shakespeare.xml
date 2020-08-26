@@ -4,10 +4,8 @@
 	<level>1</level>
 	<author>Jakab Erika</author>
 	<description>
-		Egészítsük ki a Hello, C# World alkalmazásunkat:
-A hallgató nevét addig kérjük be, amíg be nem ír valamit!
-Ne fogadjuk el névnek, hogy „Shakespeare”!
+		Egészítsük ki a Hello, C# World alkalmazásunkat:\nA hallgató nevét addig kérjük be, amíg be nem ír valamit!\nNe fogadjuk el névnek, hogy „Shakespeare”!
 	</description>
-	<video></video>
+	<video>https://youtu.be/y7UML0jPSVI</video>
 	<solution>true</solution>
 </exercise>

@@ -70,7 +70,7 @@ export class ModuleplayerComponent implements OnInit, OnDestroy {
         newex.level = parseFloat(json.EXERCISE.LEVEL[0]);
         newex.video = json.EXERCISE.VIDEO[0];
         newex.description = json.EXERCISE.DESCRIPTION[0];
-        newex.description = newex.description.replace('/n', '<br/>');
+        newex.description = newex.description.replace('\n', '<br/>');
         newex.filepath = url;
         newex.solutionpath = url.replace('.xml', '.cs');
         if (json.EXERCISE.SOLUTION[0] === 'false') {
