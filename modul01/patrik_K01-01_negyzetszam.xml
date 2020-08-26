@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Négyzetszám?</title>
+	<level>1</level>
+	<author>Almási Patrik</author>
+	<description>
+		1. Készítsen egy konzolos alkalmazást, amely bekér a felhasználótól egy egész számot.
+		2. Vizsgálja meg és írja ki a konzolra, hogy az adott szám négyzetszám-e vagy sem. ( True or False )
+	</description>
+	<video></video>
+	<solution>true</solution>
+</exercise>
