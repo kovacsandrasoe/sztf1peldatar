@@ -4,9 +4,8 @@
 	<level>1</level>
 	<author>Jakab Erika</author>
 	<description>
-		Egészítsük ki a Hello, C# World alkalmazásunkat:\nÍrjunk külön-külön köszönést a következő nevekre:\nBéla – Szia!\n
-		Bill – A király!\nJoe – Szevasz!
+		Egészítsük ki a Hello, C# World alkalmazásunkat:\nÍrjunk külön-külön köszönést a következő nevekre:\nBéla – Szia!\nBill – A király!\nJoe – Szevasz!
 	</description>
-	<video></video>
+	<video>https://youtu.be/U8DBWbEvpKc</video>
 	<solution>true</solution>
 </exercise>
