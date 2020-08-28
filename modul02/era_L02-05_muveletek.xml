@@ -6,6 +6,6 @@
 	<description>
 		Készítsünk programot, mely beolvas a billentyűzetről két számot és egy műveleti jelet, majd kiírja a két számmal elvégzett művelet eredményét. A műveleti jelek megkülönböztetéséhez használjunk többágú (switch, case) elágaztatást.
 	</description>
-	<video></video>
+	<video>https://youtu.be/R7RzwsArDaE</video>
 	<solution>true</solution>
 </exercise>
