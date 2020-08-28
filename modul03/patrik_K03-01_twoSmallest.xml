@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+	<title>Sum of two lowest integers</title>
+	<level>1</level>
+	<author>Almási Patrik</author>
+	<description>
+		1. Készítsen egy konzolos alkalmazást, amely egy megadott egész számokat tartalmazó tömb két legkisebb elemét összeadja és megjeleníti azt.
+		(Feltételezzük, hogy a tömb minimum két elemből áll)
+	</description>
+	<video></video>
+	<solution>true</solution>
+</exercise>
