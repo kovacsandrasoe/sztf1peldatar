@@ -14,5 +14,5 @@
 		char c = (char)rand.Next('A', 'Z'+1);
 	</description>
 	<video></video>
-	<solution>false</solution>
+	<solution>true</solution>
 </exercise>
