@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<exercise>
+  <title>Ösztöndíj átlag számoló</title>
+  <level>2</level>
+  <author>Félix Bálint</author>
+  <description>
+    Készítsünk programot ami bekéri a hallgató jegyeit, majd kiszámolja az ösztöndíj átlagát!/nAz átlag számítása: minden tárgyra: Jegy * Kredit, majd ezek összegzése, majd az összeg elosztása 30-al/nFigyeljünk rá, hogy ritkán lesz egész szám az átlag
+  </description>
+  <video></video>
+  <solution>true</solution>
+</exercise>
