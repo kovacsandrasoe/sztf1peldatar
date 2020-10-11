@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <exercise>
-	<title>Buborékrendezés</title>
+	<title>Javított beillesztéses rendezés stringekkel</title>
 	<level>1</level>
 	<author>Jakab Erika</author>
 	<description>
 		Írjon programot, amely az alábbiakat valósítja meg:
 		1.	A konzolról beolvas néhány szöveget.
-		2.	Buborékrendezés segítségével növekvő sorrendbe rendezi a bekért szövegeket.
+		2.	Javított beillesztéses rendezés segítségével növekvő sorrendbe rendezi a bekért szövegeket.
 		a.	Két string típusú változóról el kell tudni dönteni, hogy melyik „kisebb”.
 		b.	Ehhez kell írnia egy összehasonlítást megvalósító metódust.
 		3.	Megjeleníti rendezett sorrendben a szövegeket.
 	</description>
 	<video></video>
-	<solution>false</solution>
+	<solution>true</solution>
 </exercise>
