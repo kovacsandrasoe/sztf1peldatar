@@ -13,5 +13,5 @@
 		f)	Írjon metódust, amely megadja, hogy melyik csapat nyerte a bajnokságot. (Ha több csapat is maximális pontszámot szerzett, akkor közülük az első csapatot hozza ki nyertesnek.)
 	</description>
 	<video></video>
-	<solution>false</solution>
+	<solution>true</solution>
 </exercise>
